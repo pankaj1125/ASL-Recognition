@@ -16,3 +16,5 @@ This project aims to create a real-time American Sign Language (ASL) detection s
 - TensorFlow
 - Keras
 - Numpy
+
+- 
